@@ -1,1 +1,1 @@
-# memq
+# In-memory message queue
